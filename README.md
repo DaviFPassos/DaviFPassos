@@ -21,8 +21,6 @@ Meu principal objetivo é me especializar em Análise e Ciência de Dados, desen
 ---
 🛢️ MySQL | SQL Server: Gerenciamento, consulta e manipulação de bancos de dados relacionais com foco em performance e integridade dos dados.
 
-☁️ Azure Data Studio: Desenvolvimento de soluções e análise de dados em ambientes de nuvem, com suporte para múltiplos motores de banco.
-
 🐍 Python: Programação voltada para análise de dados, automação de processos e desenvolvimento de modelos de aprendizado de máquina.
 
 📊 Excel: Criação de dashboards e relatórios analíticos, com uso avançado de fórmulas, Tabelas Dinâmicas e recursos de visualização.
