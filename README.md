@@ -1,12 +1,12 @@
-# Olá, o meu nome é Davi. É um prazer conhecê-lo!  
+# Olá, o meu nome é Davi. É um prazer te conhecer :)  
 # Sobre Mim
-Me chamo Davi Passos, sou um profissional da área de dados com foco especial em Data Science, Data Analysis e Machine Learning. Desejo cada vez mais me aprofundar nessa área tão inovadora, gerar e extrair informações relevantes à partir dos dados fornecidos e evoluir cada vez mais as minhas técnicas. 
+Me chamo Davi Passos, sou um profissional da área de dados e possuo foco especial em Data Science, Data Analysis, Big Data e Machine Learning. Além disso, desejo me aprofundar cada vez mais nessa área tão inovadora, gerar, extrair informações à partir dos dados fornecidos e evoluir cada vez mais as minhas técnicas e prol da empresa.
 
-- Apaixonado por tecnologia, ciência de dados, machine learning e IA.  
+- Apaixonado por tecnologia, ciência de dados, machine learning e IA.
 - Estudante e eterno curioso, sempre buscando aprender e compartilhar conhecimento.  
 
 # Objetivos
-Meu principal objetivo é me especializar em Análise e Ciência de Dados, desenvolvendo soluções inteligentes que transformam dados em valor. Estou focado em aprimorar minhas habilidades nas seguintes áreas:
+Meu principal objetivo é me especializar em Análise e Ciência de Dados, além de Engernharia de Machine Learning, desenvolvendo soluções inteligentes que transformam dados em valor. Estou focado em aprimorar minhas habilidades nas seguintes áreas:
 ---
 📊 Análise Estatística: Aplicar técnicas estatísticas para interpretar grandes volumes de dados e apoiar tomadas de decisão baseadas em evidências.
 
