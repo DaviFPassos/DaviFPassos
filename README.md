@@ -29,7 +29,7 @@ Meu principal objetivo é me especializar em Análise e Ciência de Dados, além
 
 ---
 ## 📈 Projetos em Destaque
-- 🔬 **[Helthy-Report]([https://github.com/DaviFPassos/Drugs_Analysis](https://github.com/DaviFPassos/Helthy-Report))** – Análise de dados clínicos usando Python e Pandas
+- 🔬 **[Helthy-Report]((https://github.com/DaviFPassos/Helthy-Report))** – Análise de dados clínicos usando Python e Pandas
 - 📊 Em breve mais projetos sobre aprendizado de máquina e visualização de dados!
 ---
 ## 📚 Atualmente estou...
