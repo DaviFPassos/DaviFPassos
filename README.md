@@ -29,7 +29,7 @@ Meu principal objetivo é me especializar em Análise e Ciência de Dados, além
 
 ---
 ## 📈 Projetos em Destaque
-- 🔬 **[Helthy-Report](https://github.com/DaviFPassos/Helthy-Report)** – Projeto de Aprendizado Supervisionado e previsão de infromações.
+- 🔬 **[Smoking-Health-Report](https://github.com/DaviFPassos/Smoking-Health-Report)** – Projeto de Aprendizado Supervisionado e previsão de infromações.
 - 📊 Em breve mais projetos sobre aprendizado de máquina e visualização de dados!
 ---
 ## 📚 Atualmente estou...
