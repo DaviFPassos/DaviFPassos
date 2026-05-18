@@ -29,7 +29,7 @@ Meu principal objetivo é me especializar em Análise e Ciência de Dados, além
 
 ---
 ## 📈 Projetos em Destaque
-- 🔬 **[Smoking-Health-Report](https://github.com/DaviFPassos/Smoking-Health-Report)** – Projeto de Aprendizado Supervisionado e previsão de informações.
+- 🔬 **[Smoking-Health-Report](https://github.com/DaviFPassos/Smoking-Health-Report)** – Projeto de Aprendizado Supervisionado e previsão de informações de Saúde.
 
 ## 📚 Atualmente estou...
 - 🌱 Estudando **machine learning**, **estatística** e **Python avançado**
