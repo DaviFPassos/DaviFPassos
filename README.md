@@ -49,3 +49,11 @@ https://www.linkedin.com/in/davi-passos-39626a268/
 
 
 > _"A mente que se abre a uma nova ideia, jamais retorna ao seu tamanho original."_ — Albert Einstein
+
+
+
+
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
+
