@@ -33,7 +33,7 @@ Meu principal objetivo é me especializar em Análise e Ciência de Dados, além
 
 ## 📚 Atualmente estou...
 - 🌱 Estudando **machine learning**, **estatística** e **Python avançado**
-- 🔭 Trabalhando em projetos pessoais de análise de dados e notebooks interativos
+- 🔭 Trabalhando em projetos de análise de dados e APIs
 - 🤝 Aberto a colaborações em projetos open-source e desafios de dados
 ---
 ## 💬 Contatos
