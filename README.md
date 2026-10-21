@@ -4,7 +4,7 @@
 
 Mestrando em Ciência da Computação pela **Universidade de Fortaleza (Unifor)** e Bacharel em Física pela **Universidade Federal do Ceará (UFC)** com TCC focado em Aprendizado Não Supervisionado.
 
-Atuo em: ** AI Engineering, Data Engineering, Machine Learning e Data Science**.
+Atuo em: **AI/Data Engineering, Machine Learning e Data Science**.
 
 Meu foco está em transformar dados brutos em inteligência de negócios e construir arquiteturas de backend de alta performance e escalabilidade.
 
@@ -48,7 +48,7 @@ Meu foco está em transformar dados brutos em inteligência de negócios e const
 
 ## 💬 Vamos nos conectar?
 
-Caso queira discutir sobre Física Computacional, Engenharia de Dados, Machine Learning ou parcerias em projetos, sinta-se à vontade para entrar em contato!
+Caso queira discutir sobre Engenharia de Dados, Machine Learning ou parcerias em projetos, sinta-se à vontade para entrar em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-passos-39626a268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davvidpassos@gmail.com)
