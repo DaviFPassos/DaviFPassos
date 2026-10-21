@@ -9,8 +9,7 @@ Atuo em: **AI/Data Engineering, Machine Learning e Data Science**.
 Meu foco está em transformar dados brutos em inteligência de negócios e construir arquiteturas de backend de alta performance e escalabilidade.
 
 - **Foco de Atuação:** Engenharia de Dados, Modelagem Preditiva (ML), IA e Sistemas Distribuídos.
-- **Tech Stack Principal:** Python (Data Science/ML) & Go (Golang - Infraestrutura e Concorrência).
-- **Foco Acadêmico:** Preparando base sólida voltada à pesquisa avançada em Computação Aplicada e inteligência computacional.
+- **Foco Acadêmico:** NLP e Inteligência Computacional.
 
 ---
 
@@ -26,9 +25,9 @@ Meu foco está em transformar dados brutos em inteligência de negócios e const
 
 ## Tecnologias & Ferramentas
 
-* **Linguagens de Programação:** Python (Pandas, NumPy, Scikit-Learn) | Go (Golang - Alta Performance, Concorrência e APIs).
-* **Bancos de Dados & Infraestrutura:** MySQL, SQL Server, SQLite | Git, GitHub, Linux/WSL2.
-* **BI & Data Analytics:** Power BI (Dashboards Avançados), Microsoft Excel Avançado.
+* **Linguagens de Programação:** Python, Java Script e Golang.
+* **Bancos de Dados & Infraestrutura:** Postgres, Git e Linux/WSL2.
+* **BI & Data Analytics:** Power BI, Superset e Excel.
 
 ---
 
