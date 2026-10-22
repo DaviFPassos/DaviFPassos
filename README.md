@@ -15,11 +15,11 @@ Meu foco está em transformar dados brutos em inteligência de negócios e const
 
 ## Objetivos de Engenharia & Pesquisa
 
-* ** AI Engineering:** Densevolvimento de Agente de IA com protocolos MCP e RAG. 
-* ** Data Engineering:** Desenvolver pipelines de dados estruturados (ETL/ELT), barramentos orientados a eventos e arquiteturas escaláveis.
-* ** Machine Learning & MLOps:** Construir, treinar e colocar em produção modelos preditivos, algoritmos supervisionados e agentes autônomos.
-* ** Data Science & Statistics:** Aplicar modelagem matemática e estatística avançada para decodificar grandes volumes de dados e apoiar tomadas de decisão estratégicas.
-* ** Data Visualization:** Traduzir métricas técnicas complexas em insights acionáveis através de dashboards de alto impacto (Power BI) e storytelling analítico.
+* **AI Engineering:** Densevolvimento de Agente de IA com protocolos MCP e RAG. 
+* **Data Engineering:** Desenvolver pipelines de dados estruturados (ETL/ELT), barramentos orientados a eventos e arquiteturas escaláveis.
+* **Machine Learning & MLOps:** Construir, treinar e colocar em produção modelos preditivos, algoritmos supervisionados e agentes autônomos.
+* **Data Science & Statistics:** Aplicar modelagem matemática e estatística avançada para decodificar grandes volumes de dados e apoiar tomadas de decisão estratégicas.
+* **Data Visualization:** Traduzir métricas técnicas complexas em insights acionáveis através de dashboards de alto impacto (Power BI) e storytelling analítico.
 
 ---
 
