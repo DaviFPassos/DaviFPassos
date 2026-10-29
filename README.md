@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi Passos! 👋
+# Olá, eu sou o Davi Passos!
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
@@ -33,19 +33,19 @@ Meu foco está em transformar dados brutos em inteligência de negócios e const
 
 ## Projetos Públicos em Destaque
 
-* 🍕 **[Restaurant_Review](https://github.com/DaviFPassos/Restaurant_Review)** – Projeto focado em Processamento de Linguagem Natural (NLP) e Machine Learning para análise de sentimentos e classificação de avaliações de restaurantes, aplicando técnicas avançadas de tratamento de texto e modelagem preditiva.
-* 🔬 **[Smoking-Health-Report](https://github.com/DaviFPassos/Smoking-Health-Report)** – Projeto avançado de Machine Learning (Aprendizado Supervisionado) para previsão e classificação de indicadores de saúde.
+* **[Restaurant_Review](https://github.com/DaviFPassos/Restaurant_Review)** – Projeto focado em Processamento de Linguagem Natural (NLP) e Machine Learning para análise de sentimentos e classificação de avaliações de restaurantes, aplicando técnicas avançadas de tratamento de texto e modelagem preditiva.
+* **[Smoking-Health-Report](https://github.com/DaviFPassos/Smoking-Health-Report)** – Projeto avançado de Machine Learning (Aprendizado Supervisionado) para previsão e classificação de indicadores de saúde.
 
 ---
 
-## 📚 Atualmente estou...
+## Atualmente estou...
 
-* 🔭 Desenvolvendo arquiteturas de Agentes de IA e processamento de dados em tempo real.
-* 🤝 Aberto a colaborações em projetos open-source inovadores e desafios complexos de dados.
+* Desenvolvendo arquiteturas de Agentes de IA e processamento de dados em tempo real.
+* Aberto a colaborações em projetos open-source inovadores e desafios complexos de dados.
 
 ---
 
-## 💬 Vamos nos conectar?
+## Vamos nos conectar?
 
 Caso queira discutir sobre Engenharia de Dados, Machine Learning ou parcerias em projetos, sinta-se à vontade para entrar em contato!
 
