@@ -4,10 +4,7 @@
 
 Mestrando em Ciência da Computação pela **Universidade de Fortaleza (UNIFOR)** e Bacharel em Física pela **Universidade Federal do Ceará (UFC)**, com TCC focado em Aprendizado Não Supervisionado.
 
-Atuo em **AI/Data Engineering, Machine Learning e Data Science**. Meu foco é transformar dados brutos em inteligência de negócios e construir arquiteturas de backend de alta performance e escaláveis.
-
-- **Foco de Atuação:** Engenharia de Dados, Modelagem Preditiva (ML), IA e Sistemas Distribuídos.
-- **Foco Acadêmico:** NLP e Inteligência Computacional.
+Atuo em **AI/Data Engineering, DevOps e Data Analysis**. Meu foco é transformar dados brutos em inteligência de negócios e construir arquiteturas de backend de alta performance e escaláveis.
 
 <table style="width:100%; text-align:center; border-collapse: collapse;">
     <tr>
@@ -18,7 +15,7 @@ Atuo em **AI/Data Engineering, Machine Learning e Data Science**. Meu foco é tr
     <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">
             <marquee behavior="scroll" direction="left" scrollamount="9" style="padding: 0; margin-top: 0;">
-            <h4 style="font-weight: bold; padding: 0; margin: 0;"> AI Engineering | Agentes de IA | RAG & MCP | Data Engineering | Machine Learning | MLOps | NLP | Data Science | Estatística | Data Visualization | Sistemas Distribuídos </h4>
+            <h4 style="font-weight: bold; padding: 0; margin: 0;"> AI Engineering | RAG & MCP | Data Engineering | MLOps | NLP | Statistics | Distributed Systems </h4>
             </marquee>
         </td>
     </tr>
